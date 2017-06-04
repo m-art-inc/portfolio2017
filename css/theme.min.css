@@ -139,7 +139,7 @@ a:focus, a:hover {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg2.jpg) bottom center no-repeat #000;
+    /*background: url(../img/intro-bg2.jpg) bottom center no-repeat #000;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -186,6 +186,8 @@ a:focus, a:hover {
 
 .intro .intro-body .brand-heading {
     font-size: 30px;
+    margin-top: -4em;
+
 }
 
 .intro .intro-body .intro-text {
@@ -213,7 +215,7 @@ a:focus, a:hover {
     border: 2px solid #fff;
     border-radius: 100%!important;
     font-size: 40px;
-    color: #fff;
+    /*color: #fff;*/
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -267,7 +269,7 @@ a:focus, a:hover {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .work-section {
@@ -275,7 +277,7 @@ a:focus, a:hover {
     width: 100%;
     height: auto;
     clear: both;
-    padding: 100px 0;
+    padding: 50px;
     color: #fff;
     /*background: url(../img/logospage.png) center center no-repeat #000;
     -webkit-background-size: cover;
