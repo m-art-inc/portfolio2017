@@ -5,7 +5,9 @@
   clear: both;
   box-sizing: border-box;
 }
-
+#templateContent img{
+  width: 50%;
+}
 #colored-heading,h2{
   color: #fb7070;
 }
