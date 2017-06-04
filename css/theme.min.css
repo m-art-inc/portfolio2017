@@ -167,10 +167,14 @@ a:focus, a:hover {
         padding: 0;
     }
     .intro .intro-body .brand-heading {
-        font-size: 80px;
+        font-size: 70px;
     }
     .intro .intro-body .intro-text {
         font-size: 26px
+    }
+    .mylogo{
+        width: 75%;
+        height: 75%;
     }
 }
 

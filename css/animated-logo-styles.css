@@ -1,6 +1,9 @@
 
 
-
+.animated-logo{
+  width: 100%
+  height: auto;
+}
 #animatedLogo {
   width: 100%;
   position: absolute;
