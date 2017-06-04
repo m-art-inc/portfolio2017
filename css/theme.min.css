@@ -144,39 +144,6 @@ a:focus, a:hover {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover
-	/*background-color: hsla(200,40%,30%,.4);
-	background-image:
-		url('http://www.clker.com/cliparts/q/L/o/j/C/Q/forest-hi.png'),
-		url('http://www.inserthtml.com/parallax/trees.png'),
-		url('https://db.tt/cKICP4Xj'),
-		url('http://www.augstudy.com/images/theme/impress/bg_mountains.png'),
-		url('https://db.tt/vKBcgeOj');
-	background-repeat: repeat-x;
-	background-position:
-		0 20%,
-		0 95%,
-		0 0,
-		0 100%,
-		0 0;
-	background-size:
-		1800px,
-		800px,
-		500px 200px,
-		1000px,
-		400px 260px;
-	animation: 70s para infinite linear;
-	}
-
-@keyframes para {
-	100% {
-		background-position:
-			-5000px 20%,
-			-800px 95%,
-			500px 0,
-			1000px 100%,
-			400px 0;
-		}
-	}*/
 }
 
 .intro .intro-body {
