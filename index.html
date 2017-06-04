@@ -34,19 +34,22 @@
 
     <!-- handlebars script Start -->
     <script id="template" type="text/x-handlebars-template">
-        <div class="col-lg-12">
-                <address><a href="{{gitUrl}}"><h3>{{title}}</h3></a></address>
-                <span class="dateTime">{{date}}</span>
-                <br><br><br><br>
-            <div class="imgUrl">
-              <div id="macbook-img">{{{'imgUrl'}}}</div>
-            </div>
-            <br><br>
-            <div class="description">
-                <p>{{{description}}}</p>
-            </div>
-              <address><a href="url">{{{url}}}</a></address>
-              <br><br><br>
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <address><a href="{{gitUrl}}"><h3>{{title}}</h3></a></address>
+            <span class="dateTime">{{date}}</span>
+            <br><br><br><br>
+        <div class="imgUrl">
+          <div id="macbook-img">{{{'imgUrl'}}}</div>
+        </div>
+        <br><br>
+        <div class="description">
+            <p>{{{description}}}</p>
+        </div>
+          <address><a href="url">{{{url}}}</a></address>
+          <br><br><br>
+          </div>
+
         </div>
     </script>
 
