@@ -1,12 +1,12 @@
 #macbook-img{
-  max-width: 100%;
+  /*max-width: 100%;*/
   height: auto;
   display: block;
   clear: both;
   box-sizing: border-box;
 }
 #templateContent img{
-  width: 50%;
+  width: 75%;
 }
 #colored-heading,h2{
   color: #fb7070;
@@ -28,15 +28,5 @@
 }
 
 #emoji{
-  font-size: 50px;
-}
-
-#totalWords{
-  display: block;
-  text-align: center;
-  color: #42DCA3;
-  padding: 50px;
-  clear: both;
-  font-size: 14px;
-
+  font-size: 5em;
 }
