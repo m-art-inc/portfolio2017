@@ -1,0 +1,26 @@
+
+
+.main-template {
+  display: none;
+}
+
+.imgUrl{
+  max-width: 100%;
+}
+.no-display {
+  display: none;
+}
+
+.mylogo{
+  vertical-align: middle;
+  height: auto;
+  width: 75%;
+  margin: 0;
+}
+
+.imgUrl{
+  display: block;
+  clear: both;
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,24 @@
+[
+{
+	"title": "Guessing Game App",
+	"date": "03-06-2016",
+	"url": "<button class='btn btn-default btn-lg'><a href='https://github.com/m-art-inc/guessing-game'>View Project</a></button>",
+	"gitUrl": "https://github.com/m-art-inc/guessing-game",
+	"description": "<p>This is the first piece for my online portfolio. I created this during my coursework at Code Fellows</p>",
+	"imgUrl": "<div><img src='img/macbook-guessing-game.png'/></div>"
+}, {
+	"title": "Cookie Stand App",
+	"date": "06-02-2016",
+	"url": "<button class='btn btn-default btn-lg'><a href='https://github.com/m-art-inc/cookie-stand'>View Project</a></button>",
+	"gitUrl": "https://github.com/m-art-inc/cookie-stand",
+	"description": "<p>This is the second piece for my online portfolio. I created this during my coursework at Code Fellows</p>",
+	"imgUrl": "<div><img src='img/macbook-salmoncookies.png'/></div>"
+}, {
+	"title": "BusMall App",
+	"date": "08-20-2016",
+	"url": "<button class='btn btn-default btn-lg'><a href='https://github.com/m-art-inc/market-analysis-app'>View Project</a></button>",
+	"gitUrl": "https://github.com/m-art-inc/market-analysis-app",
+	"description": "<p>This is the third piece for my online portfolio. I created this during my coursework at Code Fellows</p>",
+	"imgUrl": "<div><img src='img/macbook-busmall.png'/></div>"
+}
+]
