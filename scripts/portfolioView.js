@@ -14,7 +14,7 @@
       console.log('appended to TemplateContent');
     });
 
-    $('#totalWords').text(Piece.numWordsAll() + ' total words in project description.');
+    // $('#totalWords').text(Piece.numWordsAll() + ' total words in project description.');
   };
 
 
