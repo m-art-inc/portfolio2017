@@ -1,0 +1,55 @@
+
+
+.animated-logo{
+  width: 100%
+  height: auto;
+}
+#animatedLogo {
+  width: 100%;
+  position: absolute;
+  top: -7em;
+  /*right: 0;
+  bottom: 0;
+  left: 0;*/
+  margin: 0 auto;
+  display: block;
+  fill: url("#MyGradient");
+  stroke: #fff;
+  stroke-miterlimit: 5;
+
+}
+
+.Animate-Draw {
+  fill-opacity: 0;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-iteration: 1;
+  animation-name: DrawLine, FadeStroke, FillIn;
+  animation-duration: 2s, 1s, 1s;
+  animation-delay: 3.5, 3.5s, 3.5s;
+}
+
+#Draw-Mark {
+  stroke-dashArray: 1100;
+  stroke-dashoffset: 1100;
+}
+
+#Draw-Frame {
+  animation-delay: .5s, 1s, 1.5s;
+  animation-duration: 3s, 3s, 3s;
+  stroke-dashArray: 1100;
+  stroke-dashoffset: 1100;
+}
+
+@keyframes DrawLine {
+  to { stroke-dashOffset: 0; }
+}
+
+@keyframes FadeStroke{
+  to { stroke-opacity: 0; }
+}
+
+@keyframes FillIn {
+  from { fill-opacity: 0; }
+  to { fill-opacity: 1; }
+}

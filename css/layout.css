@@ -1,21 +1,38 @@
+.mylogo{
+  display: block;
+  vertical-align: middle;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+.mylogo img{
+  width: 100%;
+  
+}
+
 #macbook-img{
-  max-width: 100%;
+  /*max-width: 100%;*/
   height: auto;
   display: block;
   clear: both;
   box-sizing: border-box;
 }
-
+#templateContent img{
+  width: 75%;
+}
 #colored-heading,h2{
   color: #fb7070;
 }
-
+.my-photo{
+  width: 100%;
+  position: relative;
+}
 #me{
-  max-width: 50%;
-  padding: 50px;
+  width: 50%;
   height: auto;
   display: inline-block;
   border-radius: 50%;
+  border: 1px solid #fff;
   clear: both;
 }
 
@@ -26,15 +43,5 @@
 }
 
 #emoji{
-  font-size: 50px;
-}
-
-#totalWords{
-  display: block;
-  text-align: center;
-  color: #42DCA3;
-  padding: 50px;
-  clear: both;
-  font-size: 14px;
-
+  font-size: 4em;
 }
